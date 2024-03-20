@@ -1,4 +1,12 @@
 {
-  "entryPoints": ["src/home-work/*.ts"],
+  "entryPoints": 
+  [
+    "src/home-work/*.ts",
+    "src/home-work/Element/*.ts",
+    "src/home-work/GraphicCalculator/*.ts",
+    "src/home-work/GraphicCalculator/FunctionElement/*.ts",
+    "src/home-work/RandomGenerator/*.ts",
+    "src/home-work/Shapes/*.ts",
+  ],
   "out": "web-server/docs"
 }
